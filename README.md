@@ -20,9 +20,10 @@ Actual image (the circuit here is just the lower layer wiring circuit, not the P
 ***
 # SOFTWARE 
 **APP**: Using Flutter language
+
 ![example1](Images/pic5.png)
 |Button|Function|
-|---|------------------------|
+|---|----------------------------|
 |Up|Robot goes forward|
 |Down|Robot goes backwards|
 |Left|Robot goes left|
