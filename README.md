@@ -29,10 +29,16 @@ Actual image (the circuit here is just the lower layer wiring circuit, not the P
 |Sweep|Robot cleans up|
 |connected/disconnected|to connect as well as notify the connection status between the phone and the robot|
 |Send|send the speed of the robot down from the phone (the speed is adjusted by the slide bar)|
-- Source link: [flutter file][2]
+- Source link: 
+  - [flutter file][2]
+  - [esp file][3]
+  - [arduino file][4]
 ***
-**Detailed report**: [link][3]
+**Detailed report**: [link][5]
 
-[1]: <...>
-[2]: <...>
-[3]: <...>
+[1]: <https://github.com/lhkhanh080720/Sona_Robot/tree/main/Schematic>
+[2]: <https://github.com/lhkhanh080720/Sona_Robot/tree/main/Code%20V1/Code/(Main)%20Code/Flutter/flutter_application_1>
+[3]: <https://github.com/lhkhanh080720/Sona_Robot/blob/main/Code%20V1/Code/(Main)%20Code/esp8266/esp8266.ino>
+[4]: <https://github.com/lhkhanh080720/Sona_Robot/blob/main/Code%20V1/Code/(Main)%20Code/sona/sona.ino>
+[5]: <https://github.com/lhkhanh080720/Sona_Robot/blob/main/Report/SONA%20ROBOT%20v1%20Document.docx>
+
