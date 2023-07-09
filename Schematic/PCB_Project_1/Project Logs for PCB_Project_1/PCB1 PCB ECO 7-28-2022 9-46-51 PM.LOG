@@ -1,0 +1,93 @@
+Added Component: Designator=A1(ArduinoMega2560)
+Added Component: Designator=DC_DC?(LM2596)
+Added Component: Designator=E1(ESP8266)
+Added Component: Designator=H1(BTS7960)
+Added Component: Designator=H2(BTS7960)
+Added Component: Designator=H3(BTS7960)
+Added Component: Designator=J1(Header_Duc Cong_2P 2.54)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetA1_7 Pin=A1-7
+Added Pin To Net: NetName=NetA1_7 Pin=DC_DC?-1
+Added Net: Name=NetA1_7
+Added Pin To Net: NetName=NetA1_8 Pin=A1-8
+Added Pin To Net: NetName=NetA1_8 Pin=DC_DC?-2
+Added Net: Name=NetA1_8
+Added Pin To Net: NetName=NetA1_31 Pin=A1-31
+Added Pin To Net: NetName=NetA1_31 Pin=H1-3
+Added Net: Name=NetA1_31
+Added Pin To Net: NetName=NetA1_32 Pin=A1-32
+Added Pin To Net: NetName=NetA1_32 Pin=H2-4
+Added Net: Name=NetA1_32
+Added Pin To Net: NetName=NetA1_33 Pin=A1-33
+Added Pin To Net: NetName=NetA1_33 Pin=H3-3
+Added Net: Name=NetA1_33
+Added Pin To Net: NetName=NetA1_44 Pin=A1-44
+Added Pin To Net: NetName=NetA1_44 Pin=E1-16
+Added Pin To Net: NetName=NetA1_44 Pin=H1-7
+Added Pin To Net: NetName=NetA1_44 Pin=H2-7
+Added Pin To Net: NetName=NetA1_44 Pin=H3-7
+Added Net: Name=NetA1_44
+Added Pin To Net: NetName=NetA1_49 Pin=A1-49
+Added Pin To Net: NetName=NetA1_49 Pin=H1-4
+Added Net: Name=NetA1_49
+Added Pin To Net: NetName=NetA1_50 Pin=A1-50
+Added Pin To Net: NetName=NetA1_50 Pin=H2-3
+Added Net: Name=NetA1_50
+Added Pin To Net: NetName=NetA1_51 Pin=A1-51
+Added Pin To Net: NetName=NetA1_51 Pin=H3-4
+Added Net: Name=NetA1_51
+Added Pin To Net: NetName=NetA1_61 Pin=A1-61
+Added Pin To Net: NetName=NetA1_61 Pin=E1-2
+Added Pin To Net: NetName=NetA1_61 Pin=H1-8
+Added Pin To Net: NetName=NetA1_61 Pin=H2-8
+Added Pin To Net: NetName=NetA1_61 Pin=H3-8
+Added Net: Name=NetA1_61
+Added Pin To Net: NetName=NetA1_72 Pin=A1-72
+Added Pin To Net: NetName=NetA1_72 Pin=H3-2
+Added Net: Name=NetA1_72
+Added Pin To Net: NetName=NetA1_73 Pin=A1-73
+Added Pin To Net: NetName=NetA1_73 Pin=H3-1
+Added Net: Name=NetA1_73
+Added Pin To Net: NetName=NetA1_74 Pin=A1-74
+Added Pin To Net: NetName=NetA1_74 Pin=H2-2
+Added Net: Name=NetA1_74
+Added Pin To Net: NetName=NetA1_75 Pin=A1-75
+Added Pin To Net: NetName=NetA1_75 Pin=H2-1
+Added Net: Name=NetA1_75
+Added Pin To Net: NetName=NetA1_76 Pin=A1-76
+Added Pin To Net: NetName=NetA1_76 Pin=H1-2
+Added Net: Name=NetA1_76
+Added Pin To Net: NetName=NetA1_77 Pin=A1-77
+Added Pin To Net: NetName=NetA1_77 Pin=H1-1
+Added Net: Name=NetA1_77
+Added Pin To Net: NetName=NetA1_86 Pin=A1-86
+Added Pin To Net: NetName=NetA1_86 Pin=E1-14
+Added Net: Name=NetA1_86
+Added Pin To Net: NetName=NetA1_87 Pin=A1-87
+Added Pin To Net: NetName=NetA1_87 Pin=E1-15
+Added Net: Name=NetA1_87
+Added Pin To Net: NetName=NetDC_DC?_3 Pin=DC_DC?-3
+Added Pin To Net: NetName=NetDC_DC?_3 Pin=H1-10
+Added Pin To Net: NetName=NetDC_DC?_3 Pin=H2-10
+Added Pin To Net: NetName=NetDC_DC?_3 Pin=H3-10
+Added Pin To Net: NetName=NetDC_DC?_3 Pin=J1-2
+Added Net: Name=NetDC_DC?_3
+Added Pin To Net: NetName=NetDC_DC?_4 Pin=DC_DC?-4
+Added Pin To Net: NetName=NetDC_DC?_4 Pin=H1-9
+Added Pin To Net: NetName=NetDC_DC?_4 Pin=H2-9
+Added Pin To Net: NetName=NetDC_DC?_4 Pin=H3-9
+Added Pin To Net: NetName=NetDC_DC?_4 Pin=J1-1
+Added Net: Name=NetDC_DC?_4
+Added Member To Class: ClassName=Sheet2 Member=Component A1 Arduino Mega 2560
+Added Member To Class: ClassName=Sheet2 Member=Component DC_DC? 12VDC_9VDC
+Added Member To Class: ClassName=Sheet2 Member=Component E1 ESP8266
+Added Member To Class: ClassName=Sheet2 Member=Component H1 BTS7960
+Added Member To Class: ClassName=Sheet2 Member=Component H2 BTS7960
+Added Member To Class: ClassName=Sheet2 Member=Component H3 BTS7960
+Added Member To Class: ClassName=Sheet2 Member=Component J1 Header 1_2.54_2P
+Added Room: Name=Sheet2

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetA1_61 Pin=E1-2
+Change Component Comment : Designator=DC_DC? Old Comment=12VDC_9VDC New Comment=12VDC9VDC
+Change Component Designator: OldDesignator=DC_DC? NewDesignator=D1
+Change Net Name : Old Net Name=NetDC_DC?_3 New Net Name=NetD1_3
+Change Net Name : Old Net Name=NetDC_DC?_4 New Net Name=NetD1_4
+Added Pin To Net: NetName=NetA1_65 Pin=A1-65
+Added Pin To Net: NetName=NetA1_65 Pin=E1-2
+Added Net: Name=NetA1_65
+Added Member To Class: ClassName=Sheet2 Member=Component D1 12VDC9VDC

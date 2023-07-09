@@ -1,0 +1,4 @@
+Change Component Comment : Designator=DC_DC? Old Comment=12VDC_9VDC New Comment=12VDC9VDC
+Change Component Designator: OldDesignator=DC_DC? NewDesignator=D1
+Change Net Name : Old Net Name=NetDC_DC?_3 New Net Name=NetD1_3
+Change Net Name : Old Net Name=NetDC_DC?_4 New Net Name=NetD1_4
