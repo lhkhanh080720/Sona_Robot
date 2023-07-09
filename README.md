@@ -13,6 +13,7 @@ Design hardware to control the Sona robot used to clean solar panels.
 
 #### Result    
 ![example1](Images/pic2.png)
+
 Actual image (the circuit here is just the lower layer wiring circuit, not the PCB circuit as designed above).
 ![example1](Images/pic3.png)
 ![example1](Images/pic4.png)
